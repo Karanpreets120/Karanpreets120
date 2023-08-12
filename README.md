@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Karanpreets120
+
+- 👋 Hi, I’m @Karanpreet
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning cse
 - 💞️ I’m looking to collaborate on data structures
